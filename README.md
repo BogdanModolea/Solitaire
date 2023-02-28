@@ -6,3 +6,6 @@ I was on vacation with my father, and he is a fan of the game Solitaire. So I tr
 
 ## What have I learnt?
 While creating the project I improved my skills in Unity, especially in C#.
+
+## Other game
+In the same summer I also managed to develop a PacMan game, but unfortunately I lost the source code. I still have the link for itch.io where it can be downloaded and you can play it (https://bogdan-modolea.itch.io/dodoman).
